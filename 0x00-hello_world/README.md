@@ -4,3 +4,4 @@
 4. 3-name: a script that compiles a C file and creates an executable named cisfun.
 6. 5-printf.c: Write a C program that prints exactly with proper grammar, but the outcome is a piece of art
 7. 6-size.c: a C program that prints the size of various types on the computer it is compiled and run on.
+8. 100-intel: a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
