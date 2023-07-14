@@ -9,3 +9,4 @@
 9. 9-print_comb.c:  a program that prints all possible combinations of single-digit numbers.
 10. 100-print_comb3.c: a program that prints all possible different combinations of two digits.
 11. 101-print_comb4.c:  a program that prints all possible different combinations of three digits.
+12. 102-print_comb5.c: a program that prints all possible combinations of two two-digit numbers.
