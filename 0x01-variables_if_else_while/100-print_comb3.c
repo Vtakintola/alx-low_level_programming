@@ -21,6 +21,8 @@ int main(void)
 				continue;
 			putchar(n % 10 + '0');
 			putchar(p % 10 + '0');
+			if (n == 8 && p == 9)
+				break;
 			putchar(',');
 			putchar(' ');
 		}
