@@ -7,7 +7,7 @@
  * Return: The last digit of n
  */
 
-int print_last_digit(int n);
+int print_last_digit(int n)
 {
 	_putchar(n / 10);
 }
