@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_alphabet - a function that prints the alphabet, in lowercase
+ * print_alphabet_x10 - a function that prints the alphabet, in lowercase
  *
  * Return: Always returns 0
  */
 
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	char n;
 	int p;
