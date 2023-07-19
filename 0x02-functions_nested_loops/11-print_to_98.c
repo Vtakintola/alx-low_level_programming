@@ -7,7 +7,7 @@
  *Return: returns the sum of a and b.
  */
 
-void print_to_98(int n);
+void print_to_98(int n)
 {
 	int i;
 
