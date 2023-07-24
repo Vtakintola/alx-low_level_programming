@@ -21,6 +21,6 @@ int main(void)
 		else
 			continue;
 	}
-	prinf("%d\n", sum);
+	printf("%d\n", sum);
 }
 
