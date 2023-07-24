@@ -24,4 +24,5 @@ int main(void)
 		if (i != 99)
 			printf(" ");
 	}
+	return (0);
 }
