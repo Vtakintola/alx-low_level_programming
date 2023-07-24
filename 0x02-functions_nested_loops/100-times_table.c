@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_times_table - a function that .
  *@n: parametr to check
@@ -20,10 +19,12 @@ void print_times_table(int n)
 
 			if (k == 0)
 				if (j != 0)
+				{
 					_putchar(',');
 					_putchar(' ');
 					_putchar(' ');
 					_putchar(' ');
+				}
 				_putchar(k % 10 + '0');
 			else
 			{
