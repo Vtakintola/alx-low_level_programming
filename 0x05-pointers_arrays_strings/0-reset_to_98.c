@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - a function that resets a value to 98
- * @*n: value to reset
+ * @n: value to reset
  * Return: returns void
  */
 
